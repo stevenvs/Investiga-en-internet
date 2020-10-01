@@ -29,11 +29,11 @@ Las destribuciones mas populares son:
 
 <h3>VERSIONES DE SISTEMAS OPERATIVOS</h3>
 
-* Windows
+* Windows versión 2004 10.0.19041.508) 8 de septiembre de 2020
 
-* Mac OS
+* Mac OS macOS Catalina 10.15.7 24 de septiembre de 2020 
 
-* Linux(Ubuntu)
+* Linux(Ubuntu) 5.8.7  5 de septiembre de 2020 (20.04 LTS 	20.04 LTS (Focal Fossa) 23 de abril de 2020 )
 
 * Android 
 
