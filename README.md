@@ -28,11 +28,17 @@ Las destribuciones mas populares son:
 5. Gentoo
 
 <h3>VERSIONES DE SISTEMAS OPERATIVOS</h3>
+
 * Windows
+
 * Mac OS
+
 * Linux(Ubuntu)
+
 * Android 
+
 * IOS
+
 
 <h3>DIFERENCIAS ENTRE LINUX Y UNIX</h3>
 
