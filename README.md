@@ -1,5 +1,7 @@
 # Investiga-en-internet
-# QUE ES GPL 
+---
+
+<h2>QUE ES GPL</h2>
 
 El software que es distribuida usando la Licencia Pública Generales (GPL) permite que pueda ser utilizado, modificado y extendido o también pudiendo comercializarse, esto da total libertad para el usuario final teniendo los derechos de software libre, también es posible modificar el código fuente de la GPL para uso privado.
   
