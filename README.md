@@ -28,9 +28,13 @@ Las destribuciones mas populares son:
 5. Gentoo
 
 <h2>VERSIONES DE SISTEMAS OPERATIVOS</h2>
+* Windows
+* Mac OS
+* Linux(Ubuntu)
+* Android 
+* IOS
 
-
-<h2>DIFERNCIAS ENTRE LINUX Y UNIX</h2>
+<h2>DIFERENCIAS ENTRE LINUX Y UNIX</h2>
 
 Unix es un sistema operativo que fue desarrollado en los Laboratorios Bell en el año 1969, donde su funcionamiento es a base de comandos, es un sistema portable, multi-tarea y multi-usuario.
 Fue creado principalmente para servidores y ordenadores, ademas no esta al alcance de cualquiera ya que su uso es privado y se necesita conocimiento para su utilizacion, ademas tambien requiere un hardware especifico para su instalacion es completamente distinto y muy complejo.
