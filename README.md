@@ -42,6 +42,11 @@ Las destribuciones mas populares son:
 
 |Sistema Operativo |  Ultima version |
 |------------------|-----------------|
+|Windows
+|Mac OS
+|Linux
+|Andorid
+|Ios
 |
 |
 |
