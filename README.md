@@ -42,10 +42,10 @@ Las destribuciones mas populares son:
 
 |Sistema Operativo |  Ultima version | Caracteristicas| 
 |:----------------:|-----------------|:---------------|
-|Windows | 2004 (10.0.19041.508)27 de mayo de 2020| -Actualizaciones de Seguridad de Windows defender. -Actualizacion de Windows Hello. -Mejoras en el programa de instalación de Windows. -Optimización de distribución. -Funciones de red compatible con los estándares Wi-Fi más recientes de Wi-Fi 6 y WPA3. -Cortana se ha actualizado y mejorado y muchas mas actualizaciones.
+|Windows | 2004 (10.0.19041.508)27 de mayo de 2020| -Actualizaciones de Seguridad de Windows defender. -Actualizacion de Windows Hello. -Mejoras en el programa de instalación de Windows. -Optimización de distribución. -Funciones de red compatible con los estándares de Wi-Fi 6 y WPA3. -Cortana se ha actualizado y mejorado y muchas mas actualizaciones.
 |Mac OS|MacOS Catalina 10.15.7 24 de septiembre de 2020|
 |Linux(Ubuntu)|5.8.7  5 de septiembre de 2020 (20.04 LTS(Focal Fossa) 23 de abril de 2020)|
-|Andorid |11 (RP1A.200720.009)8 de septiembre de 2020| - Nuevos controles de aplicaciones multimedia. - Actualizaciones de seguridad. - Burbujas de notificaciones. - Historial de notificaciones.|
+|Andorid |11 (RP1A.200720.009)8 de septiembre de 2020| - Nuevos controles de aplicaciones multimedia. - Actualizaciones de seguridad. - Burbujas de notificaciones. - Historial de notificaciones. -Modificacion de permisos a la hora de activarlos.|
 |Ios | 14.0.1(18A393) 24 de septiembre de 2020|-Se añaden Widgets en la pantalla de inicio. -Nueva biblioteca de apps que organiza y agrupa automáticamente las aplicaciones. - Se ha incorporado la función picture in picture. -Mejoras en el asistenete inteligente Siri|
 
 
