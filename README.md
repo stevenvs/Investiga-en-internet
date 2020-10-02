@@ -40,6 +40,13 @@ Las destribuciones mas populares son:
 * IOS Widgets en la pantalla de inicio, La nueva Biblioteca de Apps organiza agrupa automáticamente las aplicaciones de manera inteligente, se ha incorporado la funcioon picture in picture, mejoras en la aplicacion Siri, 
 
 
+|Sistema Operativo |  Ultima version |
+|------------------|-----------------|
+|
+|
+|
+
+
 
 <h3>DIFERENCIAS ENTRE LINUX Y UNIX</h3>
 
