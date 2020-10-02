@@ -43,11 +43,9 @@ Las destribuciones mas populares son:
 |Sistema Operativo |  Ultima version | Caracteristicas| 
 |------------------|-----------------|----------------|
 |Windows | 2004 (10.0.19041.508)8 de septiembre de 2020|
-|Mac OS
-|Linux(Ubuntu)|
-
-|Andorid |11 (RP1A.200720.009)8 de septiembre de 2020 (24 días)| controles de las aplicaciones multimedia, Actualizaciones de seguridad, directamente desde Google Play, Burbujas de notificación, Historial de notificaciones:|
-
+|Mac OS|macOS Catalina 10.15.7 24 de septiembre de 2020|
+|Linux(Ubuntu)|5.8.7  5 de septiembre de 2020 (20.04 LTS(Focal Fossa) 23 de abril de 2020)|
+|Andorid |11 (RP1A.200720.009)8 de septiembre de 2020| controles de las aplicaciones multimedia, Actualizaciones de seguridad, directamente desde Google Play, Burbujas de notificación, Historial de notificaciones:|
 |Ios | 14.0.1(18A393) 24 de septiembre de 2020| Widgets en la pantalla de inicio, La nueva Biblioteca de Apps organiza agrupa automáticamente las aplicaciones de manera inteligente, se ha incorporado la funcioon picture in picture, mejoras en la aplicacion Siri|
 
 
