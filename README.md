@@ -41,7 +41,7 @@ Las destribuciones mas populares son:
 
 
 |Sistema Operativo |  Ultima version | Caracteristicas| 
-|------------------|-----------------|
+|------------------|-----------------|----------------|
 |Windows | 2004 10.0.19041.508 |
 |Mac OS
 |Linux
