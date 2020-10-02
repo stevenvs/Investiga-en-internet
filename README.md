@@ -40,9 +40,10 @@ Las destribuciones mas populares son:
 * IOS Widgets en la pantalla de inicio, La nueva Biblioteca de Apps organiza agrupa automáticamente las aplicaciones de manera inteligente, se ha incorporado la funcioon picture in picture, mejoras en la aplicacion Siri, 
 
 
-|Sistema Operativo |  Ultima version |
+|Sistema Operativo |  Ultima version | Caracteristicas| 
 |------------------|-----------------|
-|Windows
+|Windows | 2004 10.0.19041.508) 
+         |8 de septiembre de 2020 
 |Mac OS
 |Linux
 |Andorid
