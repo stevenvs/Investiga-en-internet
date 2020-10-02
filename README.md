@@ -37,7 +37,7 @@ Las destribuciones mas populares son:
 
 * Android controles de las aplicaciones multimedia, Actualizaciones de seguridad, directamente desde Google Play, Burbujas de notificación, Historial de notificaciones:
 
-* IOS Widgets en la pantalla de inicio, La nueva Biblioteca de Apps organiza, se ha incorporado la funcioon picture in picture, mejoras en la aplicacion Siri, 
+* IOS Widgets en la pantalla de inicio, La nueva Biblioteca de Apps organiza agrupa automáticamente las aplicaciones de manera inteligente, se ha incorporado la funcioon picture in picture, mejoras en la aplicacion Siri, 
 
 
 
