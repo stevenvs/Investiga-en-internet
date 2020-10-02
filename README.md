@@ -45,8 +45,7 @@ Las destribuciones mas populares son:
 |Windows | 2004 (10.0.19041.508)8 de septiembre de 2020|
 |Mac OS
 |Linux
-|Andorid |11 (RP1A.200720.009) 
-|8 de septiembre de 2020 (24 días) 
+|Andorid |11 (RP1A.200720.009)8 de septiembre de 2020 (24 días)| controles de las aplicaciones multimedia, Actualizaciones de seguridad, directamente desde Google Play, Burbujas de notificación, Historial de notificaciones:|
 |Ios
 |
 |
