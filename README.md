@@ -35,9 +35,10 @@ Las destribuciones mas populares son:
 
 * Linux(Ubuntu) 5.8.7  5 de septiembre de 2020 (20.04 LTS 	20.04 LTS (Focal Fossa) 23 de abril de 2020 )
 
-* Android controles de las aplicaciones multimedia, Actualizaciones de seguridad, directamente desde Google Play, Burbujas de notificación, 
+* Android controles de las aplicaciones multimedia, Actualizaciones de seguridad, directamente desde Google Play, Burbujas de notificación, Historial de notificaciones:
 
-* IOS
+* IOS Widgets en la pantalla de inicio, La nueva Biblioteca de Apps organiza, se ha incorporado la funcioon picture in picture, mejoras en la aplicacion Siri, 
+
 
 
 <h3>DIFERENCIAS ENTRE LINUX Y UNIX</h3>
