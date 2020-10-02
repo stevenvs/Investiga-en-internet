@@ -46,7 +46,7 @@ Las destribuciones mas populares son:
 |Mac OS
 |Linux
 |Andorid |11 (RP1A.200720.009) 
-|        |8 de septiembre de 2020 (24 días) 
+|8 de septiembre de 2020 (24 días) 
 |Ios
 |
 |
