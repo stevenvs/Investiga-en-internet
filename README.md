@@ -29,7 +29,7 @@ Las destribuciones mas populares son:
 
 <h3>VERSIONES DE SISTEMAS OPERATIVOS</h3>
 
-* Windows versión 2004 10.0.19041.508) 8 de septiembre de 2020
+* Windows versión 2004 10.0.19041.508) 27 de mayo de 2020
 
 * Mac OS macOS Catalina 10.15.7 24 de septiembre de 2020 
 
@@ -42,7 +42,7 @@ Las destribuciones mas populares son:
 
 |Sistema Operativo |  Ultima version | Caracteristicas| 
 |------------------|-----------------|----------------|
-|Windows | 2004 (10.0.19041.508)8 de septiembre de 2020|
+|Windows | 2004 (10.0.19041.508)27 de mayo de 2020|
 |Mac OS|macOS Catalina 10.15.7 24 de septiembre de 2020|
 |Linux(Ubuntu)|5.8.7  5 de septiembre de 2020 (20.04 LTS(Focal Fossa) 23 de abril de 2020)|
 |Andorid |11 (RP1A.200720.009)8 de septiembre de 2020| - Nuevos controles de aplicaciones multimedia. - Actualizaciones de seguridad. - Burbujas de notificaciones. - Historial de notificaciones.|
