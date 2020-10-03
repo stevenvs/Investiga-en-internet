@@ -6,7 +6,6 @@
   <p align="center">
 Texto alineado
   <br><br>
-  <img src="https://78.media.tumblr.com/a2b1c618a96bc1a7f85c0df0c2becbb8/tumblr_mrowch3MIn1sbav3bo1_500.gif">
 </p>
 <h3>QUE ES GPL</h3>
 
