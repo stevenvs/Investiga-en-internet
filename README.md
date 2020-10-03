@@ -1,7 +1,8 @@
 <h1><p align="center">
 Investiga-en-internet
   </h1>
-  <br><br>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/71392489/94990416-27fe6880-057c-11eb-8f9b-aad28c6cc5d2.PNG">
 </p>
 
