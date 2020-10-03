@@ -12,7 +12,7 @@ El software que es distribuida usando la Licencia Pública Generales (GPL) permi
 
 * El software libre es aquel programa que permite tener total libertad hacia el usuario, esto quiere decir que el software puede ser utilizado para cualquier finalidad como copiar y distribuir copias del mismo, modificar el programa con libre acceso a su codigo fuente, y tambien puede ser redistribuido tanto si es para comecializar o no libremente por cualquier usuario. 
 
-* El software comercial es todo lo opuesto del sofware libre, el uso de este tipo de programas es límitado para el usuario, ya que el software incorpora una licencia comercial que hay que pagar por su utilizacion, ademas no permite la  modificación del código fuente, tampoco se permite la distribucion sin la autorizacion del propietario. El proposito de esta clase de software es obtener beneficios.
+* El software comercial es todo lo opuesto del sofware libre, el uso de este tipo de programas es límitado para el usuario, ya que el software incorpora una licencia comercial que hay que pagar por su utilizacion, además no permite la  modificación del código fuente, tampoco se permite la distribución sin la autorización del propietario. El proposito de esta clase de software es obtener beneficios.
 
 
 
