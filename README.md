@@ -1,6 +1,5 @@
 <p align="center">
 Investiga-en-internet
-  <br><br>
   <img src="https://user-images.githubusercontent.com/71392489/94989757-5af22d80-0577-11eb-86c4-b8e010e5b82d.jpeg">
 </p>
 ---
