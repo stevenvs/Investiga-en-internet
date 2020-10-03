@@ -1,12 +1,11 @@
 <p align="center">
-  <Title>
 Investiga-en-internet
-  </Title>
   <br><br>
+  <img src="https://user-images.githubusercontent.com/71392489/94989757-5af22d80-0577-11eb-86c4-b8e010e5b82d.jpeg">
 </p>
 ---
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/71392489/94989757-5af22d80-0577-11eb-86c4-b8e010e5b82d.jpeg">
+
+  
   
 <h3>QUE ES GPL</h3>
 
