@@ -53,7 +53,7 @@ Las destribuciones mas populares son:
 
 <h3>DIFERENCIAS ENTRE LINUX Y UNIX</h3>
 
-Unix es un sistema operativo que fue desarrollado en los Laboratorios Bell en el año 1969, donde su funcionamiento es a base de comandos, es un sistema portable, multi-tarea y multi-usuario.
-Fue creado principalmente para servidores y ordenadores, ademas no esta al alcance de cualquiera ya que su uso es privado y se necesita conocimiento para su utilizacion, ademas tambien requiere un hardware especifico para su instalacion es completamente distinto y muy complejo.
+Unix es un sistema operativo que fue desarrollado en los Laboratorios Bell en el año 1969, donde su funcionamiento es a base de comandos, es un sistema portable, multitarea y multiusuario.
+Fue creado principalmente para servidores y ordenadores, además no esta al alcance de cualquiera ya que su uso es privado y se necesita conocimiento para su utilización, además tambien requiere un hardware específico para su instalacion es completamente distinto y muy complejo.
 
-Linux en si es el kernel o nucleo del S.O que fue desarrollado por Linus Torvals basandose en el sistema operativo Unix para un una interfaz grafica, es utilizado en variedad de dispositivos (Ordenadores personales, dispositivos moviles, etc.) con sus distintas distribuciones, Linix es un parte fundamental del sistema operativo se encarga de administrar los recursos del hardware, controla todas las operaciones para hacer que funcione, fue creado como software libre, por lo cual es gratuito para todo el publico.
+Linux en si es el kernel o núcleo del S.O que fue desarrollado por Linus Torvals basandose en el sistema operativo Unix para un una interfaz gráfica, es utilizado en variedad de dispositivos (Ordenadores personales, dispositivos moviles, etc.) con sus distintas distribuciones, Linux es un parte fundamental del sistema operativo se encarga de administrar los recursos del hardware, controla todas las operaciones para hacer que funcione, fue creado como software libre, por lo cual es gratuito para todo el público.
